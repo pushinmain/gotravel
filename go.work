@@ -1,6 +1,7 @@
 go 1.24.5
 
 use (
+	./pkg/protos
 	./services/auth
 	./services/payment
 	./services/ticket
