@@ -1,4 +1,7 @@
 package auth
 
-type serverAPI struct {
+import authv1 "github.com/pushinmain/gotravel/pkg/protos"
+
+type serverAPI struct { 
+	authv1.
 }
